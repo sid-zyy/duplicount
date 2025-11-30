@@ -1,0 +1,15 @@
+apple
+banana
+apple
+apple
+bana
+banana
+orange
+pineapple
+watermelon
+mango
+watermelon
+guava
+blueberry
+blackberry
+guava
